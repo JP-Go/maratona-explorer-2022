@@ -7,7 +7,7 @@ Repositório de aprendizagem para acompanhar as aulas da Maratona Explorer 2022 
 - HTML
 - CSS
 - JavaScript (vanilla)
-- Vite (Build tool)
+- Vite (Biblioteca e build tool)
 
 # Descrição
 
